@@ -1,6 +1,4 @@
 
-course-project-TimChien112
-course-project-TimChien112 created by GitHub Classroom
 
                         Mesh based Smart Home (Home Automation)
 This project is developed as final project for the course ECEN 5823.
